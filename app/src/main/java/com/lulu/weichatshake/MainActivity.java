@@ -28,7 +28,12 @@ public class MainActivity extends AppCompatActivity implements SensorEventListen
     private static final int START_SHAKE = 0x1;
     private static final int AGAIN_SHAKE = 0x2;
     private static final int END_SHAKE = 0x3;
+/*wefjwefefwef
 
+
+
+sad  
+ */
     private SensorManager mSensorManager;
     private Sensor mAccelerometerSensor;
     private Vibrator mVibrator;//手机震动
